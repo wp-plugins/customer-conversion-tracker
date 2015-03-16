@@ -1,5 +1,7 @@
 === Plugin Name ===
-Contributors: EcommerceTools	
+Contributors: Ecommerce Tools
+Author: Ecommerce Tools	
+Author URI: http://www.ecommercetools.co
 Donate link: 
 Tags: woocommerce, increase conversions, track conversions, conversion data, measure conversions, track customers
 Requires at least: 3.1
@@ -40,6 +42,11 @@ No, Customer Conversion Tracker requires Woocommerce to be installed before it i
 == Changelog ==
 
 *v1.0 includes dashboard widget display showing conversion data. 
+
+== Upgrade Notice ==
+
+= 1.1 = 
+This version includes extra information in the readme file. 
 
 == A brief Markdown Example ==
 
