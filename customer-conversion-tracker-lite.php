@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Customer Conversion Tracker Lite
-Plugin URI: http://yourdomain.com/
-Description: Customer-Conversion-Tracker-Plugin
+Plugin Name: Customer Conversion Tracker 'Lite'
+Plugin URI: http://www.ecommercetools.co/customer-conversion-tracker-for-woocommerce/
+Description: Customer Conversion Tracker allows you to track your customers' checkout experience, increase conversions and reduce abandoned carts. 
 Version: 1.0
-Author: TBI
-Author URI: http://yourdomain.com
+Author: Ecommerce Tools
+Author URI: http://ecommercetools.co
 License: GPL
 */
 /**
