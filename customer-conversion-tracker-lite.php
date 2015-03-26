@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Customer Conversion Tracker 'Lite'
-Plugin URI: http://www.ecommercetools.co/customer-conversion-tracker-for-woocommerce/
-Description: Customer Conversion Tracker allows you to track your customers' checkout experience, increase conversions and reduce abandoned carts. 
+Plugin URI: http://ecommercetools.co/customer-conversion-tracker-for-woocommerce/
+Description: Customer Conversion Tracker allows you to track your customers' checkout experience, increase conversions and reduce abandoned carts.
 Version: 1.0
 Author: Ecommerce Tools
 Author URI: http://ecommercetools.co
